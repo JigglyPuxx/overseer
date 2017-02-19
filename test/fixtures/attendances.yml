@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  present: MyString
+  absent: MyString
+  late: MyString
+
+two:
+  present: MyString
+  absent: MyString
+  late: MyString
